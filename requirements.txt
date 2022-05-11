@@ -1,0 +1,8 @@
+jupyter
+numpy
+scipy
+pandas
+requests
+faker
+ff3
+matplotlib
