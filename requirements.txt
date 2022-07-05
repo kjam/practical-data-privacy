@@ -1,8 +1,11 @@
 jupyter
 numpy
 scipy
+seaborn
 pandas
 requests
 faker
 ff3
 matplotlib
+tmlt.analytics
+great_expectations

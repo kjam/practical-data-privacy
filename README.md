@@ -17,21 +17,17 @@ Please utilize the included `requirements.txt` to install your requirements usin
 
 We recommend using [virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/) or [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html). 
 
-### Outline
+To run parts of these notebooks you will also need a running version of Apache Spark. Check [the latest documentation](https://spark.apache.org/downloads.html) to set up for your operating system.
+
 
 Notebooks
 --------
 
-- Pseudonymization
-- Differential Privacy: Laplace + Budgets
-- Differential Privacy: Gaussian
-
-Extra Materials
-- Differential Privacy: Randomized Response
+The notebooks follow the order that the ideas are introduced in the book. There are some additional notebooks added for those interested. Please file a pull request if you have an update to a notebook. I will also watch issues to ensure that the notebooks are usable and understandable. Feedback is very welcome!
 
 ### Recommended Reading
 
-Each notebook has its own section of recommended reading. I may update this README with additional reading of interest on this topic.
+Several notebooks have a recommended reading section. I may update this README with additional reading of interest on this topic.
 
 ### Questions?
 
