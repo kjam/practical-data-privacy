@@ -9,3 +9,6 @@ ff3
 matplotlib
 tmlt.analytics
 great_expectations
+transformers
+datasets
+opacus
