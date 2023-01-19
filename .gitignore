@@ -1,2 +1,4 @@
 spark-warehouse/
 .ipynb_checkpoints/
+data/client*
+data/steam*
