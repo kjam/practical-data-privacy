@@ -1,0 +1,9 @@
+statistic,name,count,median,mean
+A1,total-population,7,30,38
+A2,non-smoker,4,30,33
+B2,smoker,3,30,44
+C2,unemployed,4,51,48
+D2,employed,3,24,24
+A3,single-adults,,,
+B3,married-adults,4,51,54
+A4,unemployed-non-smoker,3,36,37
