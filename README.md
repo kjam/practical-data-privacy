@@ -1,6 +1,8 @@
-# Practical Data Privacy for Data Science Notebooks
+# Practical Data Privacy
 
-Notebooks to accompany the O'Reilly release: Practical Data Privacy for Data Science.
+Notebooks to accompany the book _Practical Data Privacy: Enhancing Privacy and Security in Data_, O'Reilly, Spring 2023.
+
+You can [read the book on Safari now](https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/). Pre-order is also available.
 
 These notebooks can also be used separately from the book, as a workhop or self-study to learn about practical data privacy methods. The audience is assumed to be a data scientist or data folks with an understanding of probability, math and data. 
 
