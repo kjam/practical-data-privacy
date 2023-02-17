@@ -12,3 +12,6 @@ great_expectations
 transformers
 datasets
 opacus
+flwr
+ray
+torchvision
