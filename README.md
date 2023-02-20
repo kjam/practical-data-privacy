@@ -59,3 +59,7 @@ These notebooks wouldn't have been possible without the following contributors a
 - [Jason Mancuso](https://github.com/jvmncs)
 - [Yann Dupis](https://github.com/yanndupis)
 - [Mitchell Lisle](https://github.com/mitchelllisle)
+
+### Update Log
+
+20.02.2023: Main notebooks working and added reader-contributions folder.
