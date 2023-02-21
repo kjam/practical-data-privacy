@@ -2,6 +2,7 @@ spark-warehouse/
 .ipynb_checkpoints/
 data/client*
 data/steam*
+data/*_for_sharing.csv
 data/__MACOSX/
 data/food-101/
 data/snli*
