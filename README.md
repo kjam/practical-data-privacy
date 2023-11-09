@@ -18,7 +18,7 @@ Please utilize the included `requirements.txt` to install your requirements usin
 
 Unfortunately, some of these libraries have conflicting requirements, so you may need to adapt your libraries and install to use later notebooks after you install the earlier tools. You will also need to install several Rust libraries with Python bindings, which you will need to follow the direct installation information from those software packages.
 
-I recommend using [virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/) or [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html). 
+I recommend using [virtual environments](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) or [conda environments](https://conda.io/docs/user-guide/tasks/manage-environments.html). 
 
 To run parts of these notebooks you will also need a running version of Apache Spark. Check [the latest documentation](https://spark.apache.org/downloads.html) to set up for your operating system.
 
