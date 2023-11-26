@@ -1,0 +1,1 @@
+(sum(shares) % Q) - Q
