@@ -2,6 +2,8 @@
 
 Notebooks to accompany the book _Practical Data Privacy: Enhancing Privacy and Security in Data_, O'Reilly, Spring 2023.
 
+There are several notebooks associated with the upcoming O'Reilly video course as well.
+
 You can [read the book on Safari now](https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/). Pre-order is also available.
 
 These notebooks can also be used separately from the book, as a workhop or self-study to learn about practical data privacy methods. The audience is assumed to be a data scientist or data folks with an understanding of probability, math and data. 
@@ -60,6 +62,9 @@ These notebooks wouldn't have been possible without the following contributors a
 - [Yann Dupis](https://github.com/yanndupis)
 - [Mitchell Lisle](https://github.com/mitchelllisle)
 
+Please note that the dpia-template.docx is downloaded from [the UK data protection authority (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/accountability-and-governance/data-protection-impact-assessments/) and is meant to be used for educational purposes only.
+
 ### Update Log
 
+23.08.2024: Main notebooks and examples for video course added.
 20.02.2023: Main notebooks working and added reader-contributions folder.

@@ -1,0 +1,18 @@
+
+What if...
+
+I have normal groceries that I use every week and I want to pre-order every week?
+I am interested in particular types of foods, and want to know when new or old favorites come in?
+I have a particular dinner I'd like to try and I want to quickly compare the ingredients with inventory at my local store? 
+I want to connect a recipe bookmark system and get recommendations when items are in stock at my local store?
+
+
+
+1. Decide what data you might need for such a product at a high level. Categorize what you think is more sensitive or less.
+2. Write up some user research questions around what data users might want to keep locally versus store centrally. 
+     - How might you find out what they are comfortable sharing and how? 
+     - How could you present a local-first option that might increase their comfort and reduce harms?
+3. If you have time, interview a few friends or colleagues. 
+     - What did you find? 
+     - Were you surprised by the response? 
+     - Bonus: map a mental model of users and their data!
